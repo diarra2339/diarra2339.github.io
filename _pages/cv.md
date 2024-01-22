@@ -9,51 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/cv_eng.pdf">Download my full resume</a>.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics and Computer Science, Laval University, Jan 2014 - Dec 2016
+* M.Sc. in Computer Science, Laval University, Jan 2017 - Jul 2018
+* Ph.D in Machine Learning, Laval University, Sep 2021 - Present
 
-Work experience
+Selected Skills
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <strong>Languages</strong>: English (fluent), French (fluent)
+* <strong>Programming Languages</strong>: Python, Java, C/C++
+* <strong>Machine Learning</strong>: Pytorch, Numpy, Pandas, scikit-learn
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Selected Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mar 2019 - Apr 2021: DevOps Engineer
+  * <a href="https://www.igmfinancial.com/en">IGM Financial</a>
+  * Toronto, ON, Canada
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Nov 2018 - Feb 2019: DevOps Trainee
+  * <a href="https://www.fdmgroup.com/">FDM Group</a>
+  * Toronto, ON, Canada
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Fall 2019 and Fall 2020: Lecturer
+  * <a href="https://www.ulaval.ca/en">Laval University</a>
+  * Quebec City, QC, Canada
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2015: Research Intern in Static Program Analysis
+  * <a href="https://www.crim.ca/en">Computer Research Institute of Montreal</a>
+  * Montreal, QC, Canada
+
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
