@@ -14,6 +14,7 @@ My research interests include:
 * Statistical Learning Theory
 * PAC-Bayes
 * Deep Generative Models
+* Variational Inference
 * Neural Network Compression
 
 
