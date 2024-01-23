@@ -20,7 +20,7 @@ My research interests include:
 
 Updates
 ======
-In February 2024, I am visiting <a href="https://www.ucl.ac.uk/">UCL</a> where I am hosted by <a href="https://www.homepages.ucl.ac.uk/~ucabriv/">Omar Rivasplata</a>. 
+In February 2024, I am visiting <a href="https://www.ucl.ac.uk/">UCL</a> where I am hosted by <a href="https://www.homepages.ucl.ac.uk/~ucabriv/">Omar Rivasplata</a>!
 
 Contact
 ======
