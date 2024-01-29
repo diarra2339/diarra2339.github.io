@@ -12,7 +12,7 @@ Review Work
 
 Volunteer Work
 ======
-* Member of the Diversity and Inclusion Commiee of the Institute Intelligence And Data (IID), Laval University
+* Member of the Diversity and Inclusion Committee of the Institute Intelligence And Data (IID), Laval University
 
 
   
