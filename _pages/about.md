@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Diarra. I am a PhD student at Laval University under the supervision of <a href="https://www.pascalgermain.info/">Pascal Germain</a>. My research is about deriving theoretical guarantees for deep learning models, with a focus on deep generative models. In my work, I use tools from statistical learning theory, mainly PAC-Bayesian theory. 
+My name is Diarra. I am a PhD student at Laval University under the supervision of <a href="https://www.pascalgermain.info/">Pascal Germain</a>. The subject of my thesis is deriving theoretical guarantees for deep learning models, with a focus on deep generative models. In my work, I use tools from statistical learning theory, mainly PAC-Bayesian theory. 
 
 My research interests include:
 * Statistical Learning Theory
-* PAC-Bayes
 * Deep Generative Models
 * Variational Inference
 * Neural Network Compression
 
+Although most of my work has been fairly theoretical, I am eager to apply my knowledge to solve practical problems. I am currently looking for industry positions. 
 
 Updates
 ======
