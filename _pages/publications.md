@@ -28,10 +28,10 @@ You can find an updated list of my articles on <u><a href="https://scholar.googl
 
 
         <article>
-            <h2><a href="https://arxiv.org/abs/2312.05989">A Note on the Convergence of Denoising Diffusion Probabilistic Models</a></h2>
+            <h2><a href="https://openreview.net/forum?id=wLe1bG93yc">A Note on the Convergence of Denoising Diffusion Probabilistic Models</a></h2>
             <p><i><strong>Sokhna Diarra Mbacke</strong>, Omar Rivasplata</i>
-            <br>Preprint, under review
-            <br><a href="https://arxiv.org/pdf/2312.05989.pdf"><strong><font size="4.5">PDF</font></strong></a></p>
+            <br>TMLR 2024
+            <br><a href="https://openreview.net/pdf?id=wLe1bG93yc"><strong><font size="4.5">PDF</font></strong></a></p>
         </article>
         
         
