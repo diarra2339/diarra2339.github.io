@@ -9,6 +9,7 @@ Review Work
 ======
 * JMLR
 * AISTATS 2024
+* ICML 2024
 
 Volunteer Work
 ======
