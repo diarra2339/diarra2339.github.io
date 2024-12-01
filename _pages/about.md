@@ -14,13 +14,14 @@ My research interests include:
 * Statistical Learning Theory
 * Deep Generative Models
 * Variational Inference
-* Neural Network Compression
 
 Although most of my work has been fairly theoretical, I am eager to apply my knowledge to solve practical problems. I am currently looking for industry positions. 
 
 Updates
 ======
-I am spending the month of February 2024 as a visiting researcher at <a href="https://www.ucl.ac.uk/">UCL</a> where I am hosted by <a href="https://www.homepages.ucl.ac.uk/~ucabriv/">Omar Rivasplata</a>!
+I am very proud to be one of the winners of the <a href="https://rbcborealis.com/news/celebrating-the-future-of-ai-meet-our-new-fellows/">RBC Borealis Fellowship</a> 2023/2024.
+
+I am spending the month of February 2024 as a visiting researcher at <a href="https://www.ucl.ac.uk/">UCL</a> where I am hosted by <a href="https://www.homepages.ucl.ac.uk/~ucabriv/">Omar Rivasplata</a>.
 
 Contact
 ======
