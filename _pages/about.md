@@ -15,7 +15,6 @@ My research interests include:
 * Deep Generative Models
 * Variational Inference
 
-Although most of my work has been fairly theoretical, I am eager to apply my knowledge to solve practical problems. I am currently looking for industry positions. 
 
 Updates
 ======
